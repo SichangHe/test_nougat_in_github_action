@@ -27,4 +27,4 @@ jobs:
 
       - run: python -m pip install nougat-ocr
 
-      - run: nougat --help
+      - run: nougat -h
